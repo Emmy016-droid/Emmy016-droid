@@ -23,6 +23,9 @@ A Python-based project for processing geophysical data and producing sounding cu
 
 🔗 "View my project" (https://github.com/Emmy016-droid/Sounding-curve-and-2d-geoelectric-cross-section-project)
 
+- "LinkedIn" (https://www.linkedin.com/in/emmanuel-samuel-3a6706428)
+- "GitHub" (https://github.com/Emmy016-droid)
+
 🚀 Currently
 
 - Building practical projects in Python and scientific data analysis
