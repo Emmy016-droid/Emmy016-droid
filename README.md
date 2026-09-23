@@ -1,4 +1,4 @@
-Hi, I'm Emmanuel Samuel 👋
+Hi, I'm Emmanuel Chibuike Samuel 👋
 
 Software Validation | Python | Data Analysis | QA/QC | Technical Documentation
 
