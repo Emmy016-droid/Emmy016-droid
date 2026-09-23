@@ -21,10 +21,8 @@ Scientific Data Processing & Geophysical Visualization
 
 A Python-based project for processing geophysical data and producing sounding curves and 2D geoelectric visualizations.
 
-🔗 "View my project" (https://github.com/Emmy016-droid/Sounding-curve-and-2d-geoelectric-cross-section-project)
-
-- "LinkedIn" (https://www.linkedin.com/in/emmanuel-samuel-3a6706428)
-- "GitHub" (https://github.com/Emmy016-droid)
+🔗 View my project
+https://github.com/Emmy016-droid/Sounding-curve-and-2d-geoelectric-cross-section-project
 
 🚀 Currently
 
@@ -34,5 +32,7 @@ A Python-based project for processing geophysical data and producing sounding cu
 
 📫 Connect
 
-- "LinkedIn" (https://www.linkedin.com/in/emmanuel-samuel-3a6706428)
-- "GitHub" (https://github.com/Emmy016-droid)
+- LinkedIn
+https://www.linkedin.com/in/emmanuel-samuel-3a6706428
+- GitHub
+https://github.com/Emmy016-droid
